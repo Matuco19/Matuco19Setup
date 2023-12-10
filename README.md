@@ -1,6 +1,7 @@
-Hello! My name is Matuco19 and I've been a developer for 3 years. I have knowledge in the fullstack area, like html, css, js, lua, nodejs, python among others! 
+<h2> Matuco19 </h2>
+Hello! My name is Matuco19. I have knowledge in the fullstack area, like html, js, nodejs, python among others! 
 Visit my website for more information ~~[here]()~~
-My Developer Roadmap:
+<h2>My Developer Roadmap:</h2>
 - [x] Learn Scratch (02/03/2018)
 - [x] Learn lua (01/13/2020)
 - [x] Learn html, css and js (01/04/2022)
@@ -10,3 +11,4 @@ My Developer Roadmap:
 - [ ] Learn php (still in progress)
 
 ~~See my repository here: coming soon~~
+
