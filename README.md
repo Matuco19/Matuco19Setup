@@ -16,6 +16,10 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [x] Learn Node.js (05/02/2022)
 - [x] Learn python (02/14/2023)
 - [ ] Learn php (still in progress)
+- [ ] Learn Unreal Engine (still in progress)
+- [ ] Learn C++ ()
+- [ ] Learn C# ()
+- [ ] Learn brainf*ck (never)
 
 ~~See my repository here: coming soon~~
 
