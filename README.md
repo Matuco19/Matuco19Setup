@@ -15,7 +15,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [x] Learn discord bot Frameworks (04/21/2022)
 - [x] Learn Node.js (05/02/2022)
 - [x] Learn python (02/14/2023)
-- [x] Learn Unreal Engine (10/12/2023)
+- [x] Learn Unreal Engine (12/10/2023)
 - [ ] Learn php (still in progress)
 - [ ] Learn C++ ()
 - [ ] Learn C# ()
