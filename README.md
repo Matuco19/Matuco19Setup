@@ -22,6 +22,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [ ] Learn brainf*ck (never)
 
 <h2>All My Projects</h2>
+
 You can find it on my [website]().
 
 ~~See my repository here: ~~
