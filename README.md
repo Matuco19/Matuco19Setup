@@ -23,7 +23,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>All My Projects</h2>
 
-You can find it on my [website]().
+You can find it on my ~~[website]()~~.
 
-~~See my repository here: ~~
+~~See my repository here:~~
 
