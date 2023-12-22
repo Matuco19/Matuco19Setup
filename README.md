@@ -7,7 +7,7 @@ Visit my website for more information ~~[here]()~~
 
 I've always liked programming in the backend area but I have knowledge in frontend, I've always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. I'm currently learning PHP. For now my website is not available as it is still under development, a great website with great projects! 
 
-<h2>My Developer Roadmap:</h2>
+<h2>My General Developer Roadmap:</h2>
 
 - [x] Learn Scratch (02/03/2018)
 - [x] Learn lua (01/13/2020)
@@ -20,6 +20,9 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [ ] Learn C++ ()
 - [ ] Learn C# ()
 - [ ] Learn brainf*ck (never)
+
+<h2>All My Projects</h2>
+You can find it on my [website]().
 
 ~~See my repository here: ~~
 
