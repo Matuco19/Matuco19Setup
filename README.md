@@ -23,14 +23,14 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>My Public Projects</h2>
 
-[YT-Audio Downloader](https://github.com)
+[YT-VAD]([https://github.com](https://github.com/Matuco19/yt-vad))
 
 
 You can find all on my ~~[website]()~~.
 
 <h2>How To Find Me</h2>
 You can follow these links:
-- [Discord]()
+- [Discord](https://discordapp.com/users/609728126767071273)
 - [Youtube]()
 - [Website]()
 - [X]()
