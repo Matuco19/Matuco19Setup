@@ -23,7 +23,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>My Public Projects</h2>
 
-[YT-VAD]([https://github.com](https://github.com/Matuco19/yt-vad))
+[YT-VAD](https://github.com/Matuco19/yt-vad)
 
 
 You can find all on my ~~[website]()~~.
