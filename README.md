@@ -33,7 +33,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>My Public Projects</h2>
 
-[![YT-VAD](https://github-readme-stats.vercel.app/api/pin/?username=Matuco19&repo=yt-vad&show_owner=true)](https://github.com/Matuco19/yt-vad)
+[![YT-VAD](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=yt-vad\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Matuco19/yt-vad)
 
 
 You can find all on my ~~[website]()~~.
