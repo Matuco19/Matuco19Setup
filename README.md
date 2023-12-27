@@ -5,7 +5,7 @@ Visit my website for more information ~~[here]()~~
 
 <h2>About Me</h2>
 
-I've always liked programming in the backend area but I have knowledge in frontend, I've always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. I'm currently learning React. For now my website is not available as it is still under development, a great website with great projects! 
+I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. I'm currently learning React. For now my website is not available as it is still under development, a great website with great projects! 
 
 <h2>My General Developer Roadmap:</h2>
 
@@ -27,6 +27,14 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 
 You can find all on my ~~[website]()~~.
+
+<h2>How To Find Me</h2>
+You can follow these links:
+- [Discord]()
+- [Youtube]()
+- [Website]()
+- [X]()
+
 
 ~~See my repository here:~~
 
