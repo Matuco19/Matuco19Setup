@@ -34,7 +34,7 @@ You can follow these links:
 - [Discord](https://discordapp.com/users/609728126767071273)
 - [Youtube]()
 - [Website]()
-- [ X ]()
+- [ X ](https://twitter.com/Matuco19_DEV)
 
 
 ~~See my repository here:~~
