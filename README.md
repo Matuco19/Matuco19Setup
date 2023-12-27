@@ -30,10 +30,11 @@ You can find all on my ~~[website]()~~.
 
 <h2>How To Find Me</h2>
 You can follow these links:
+
 - [Discord](https://discordapp.com/users/609728126767071273)
 - [Youtube]()
 - [Website]()
-- [X]()
+- [ X ]()
 
 
 ~~See my repository here:~~
