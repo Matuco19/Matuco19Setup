@@ -21,9 +21,19 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [ ] Learn C# ()
 - [ ] Learn brainf*ck (never)
 
+<h2>My Github Stats</h2>
+
+![stats](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Matuco19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+![views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)
+
+
 <h2>My Public Projects</h2>
 
-[YT-VAD](https://github.com/Matuco19/yt-vad)
+[![YT-VAD](https://github-readme-stats.vercel.app/api/pin/?username=Matuco19&repo=yt-vad&show_owner=true)](https://github.com/Matuco19/yt-vad)
 
 
 You can find all on my ~~[website]()~~.
@@ -38,4 +48,7 @@ You can follow these links:
 
 
 ~~See my repository here:~~
+
+
+
 
