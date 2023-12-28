@@ -33,10 +33,10 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>Working On</h2>
 
--My Website
--My AI
--My npm package
--My Repository Website
+- My Website
+- My AI
+- My npm package
+- My Repository Website
 and others!
 
 <h2>My Public Projects</h2>
