@@ -31,6 +31,14 @@ I've always liked programming in the backend area but I have knowledge in fronte
 ![views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)
 
 
+<h2>Working On</h2>
+
+-My Website
+-My AI
+-My npm package
+-My Repository Website
+and others!
+
 <h2>My Public Projects</h2>
 
 [![YT-VAD](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=yt-vad\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Matuco19/yt-vad)
