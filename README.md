@@ -37,7 +37,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - My AI
 - My npm package
 - My Repository Website
-and others!
+- and others!
 
 <h2>My Public Projects</h2>
 
