@@ -23,12 +23,12 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>My Github Stats</h2>
 
-![stats](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![stats](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/Matuco19)
 
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Matuco19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Matuco19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/Matuco19)
 
 
-![views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)
+[![views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
 
 
 <h2>Working On</h2>
