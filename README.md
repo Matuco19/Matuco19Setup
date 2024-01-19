@@ -49,8 +49,7 @@ You can find all on my ~~[website]()~~.
 You can follow these links:
 
 - [Discord](https://discordapp.com/users/609728126767071273)
-
-~~- [Discord Server]()~~
+- ~~[Discord Server]()~~
 - [Youtube]()
 - [Website]()
 - [ X ](https://twitter.com/Matuco19_DEV)
