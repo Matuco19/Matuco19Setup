@@ -35,8 +35,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 - My Website
 - My AI
-- My npm package
-- My Repository Website
+- My Browser
 - and others!
 
 <h2>My Public Projects</h2>
@@ -50,6 +49,7 @@ You can find all on my ~~[website]()~~.
 You can follow these links:
 
 - [Discord](https://discordapp.com/users/609728126767071273)
+~~- [Discord Server]()~~
 - [Youtube]()
 - [Website]()
 - [ X ](https://twitter.com/Matuco19_DEV)
