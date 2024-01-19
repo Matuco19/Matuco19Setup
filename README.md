@@ -50,8 +50,8 @@ You can follow these links:
 
 - [Discord](https://discordapp.com/users/609728126767071273)
 - ~~[Discord Server]()~~
-- [Youtube]()
-- [Website]()
+- ~~[Youtube]()~~
+- ~~[Website]()~~
 - [ X ](https://twitter.com/Matuco19_DEV)
 
 
