@@ -33,9 +33,9 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>Working On</h2>
 
-- My Website
 - My AI
 - My Browser
+- My NPM Package
 - and others!
 
 <h2>My Public Projects</h2>
