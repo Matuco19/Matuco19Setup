@@ -9,13 +9,13 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>My General Developer Roadmap:</h2>
 
-- [x] Learn Scratch (02/03/2018)
-- [x] Learn lua (01/13/2020)
-- [x] Learn html, css and js (01/04/2022)
-- [x] Learn discord bot Frameworks (04/21/2022)
-- [x] Learn Node.js (05/02/2022)
-- [x] Learn python (02/14/2023)
-- [x] Learn Unreal Engine (12/10/2023)
+- [x] Learn Scratch (03. Feb. 2018)
+- [x] Learn lua (13. Jan. 2020)
+- [x] Learn html, css and js (04. Jan 2022)
+- [x] Learn discord bot Frameworks (21. Apr. 2022)
+- [x] Learn Node.js (02. May. 2022)
+- [x] Learn python (14. Feb. 2023)
+- [x] Learn Unreal Engine (10. Dec. 2023)
 - [ ] Learn React ()
 - [ ] Learn C++ ()
 - [ ] Learn Rust ()
@@ -43,7 +43,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 [![YT-VAD](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=yt-vad\&theme=transparent)](https://github.com/Matuco19/yt-vad)
 
 
-You can find all on my ~~[website]()~~.
+You can find all on my ~~[repository]()~~.
 
 <h2>How To Find Me</h2>
 You can follow these links:
