@@ -23,7 +23,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>My General Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://github.com/Matuco19)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,py)](https://github.com/Matuco19)
 
 <h2>My Github Stats</h2>
 
