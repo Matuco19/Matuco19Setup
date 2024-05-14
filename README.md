@@ -21,6 +21,9 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [ ] Learn Rust ()
 - [ ] Learn brainf*ck (never)
 
+<h2>My General Skills</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py, pyqt)](https://github.com/Matuco19)
+
 <h2>My Github Stats</h2>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&count_private=true)](https://github.com/Matuco19)
