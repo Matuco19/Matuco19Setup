@@ -5,7 +5,7 @@ Visit my website for more information ~~[here]()~~
 
 <h2>About Me</h2>
 
-I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. I'm currently learning React. For now my website is not available as it is still under development, a great website with great projects! 
+I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. For now my website is not available as it is still under development, a great website with great projects! 
 
 <h2>My General Developer Roadmap:</h2>
 
@@ -16,7 +16,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [x] Learn Node.js (02. May. 2022)
 - [x] Learn python (14. Feb. 2023)
 - [x] Learn Unreal Engine (10. Dec. 2023)
-- [ ] Learn React ()
+- [ ] Learn React (28. Jun. 2024)
 - [ ] Learn C++ ()
 - [ ] Learn Rust ()
 - [ ] Learn brainf*ck (never)
