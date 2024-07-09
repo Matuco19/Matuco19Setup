@@ -36,7 +36,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 
 [![views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
-
+[![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
 
 <h2>Working On</h2>
 
