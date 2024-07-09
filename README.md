@@ -38,11 +38,12 @@ I've always liked programming in the backend area but I have knowledge in fronte
 [![views](https://komarev.com/ghpvc/?username=Matuco19&style=flat-square&color=blue)](https://github.com/Matuco19)
 [![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
 
+![](https://github-contributor-stats.vercel.app/api?username=Matuco19&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 <h2>Working On</h2>
 
 - My AI
 - My Browser
-- My NPM Package
 - and others!
 
 <h2>My Public Projects</h2>
@@ -64,6 +65,7 @@ You can follow these links:
 
 ~~See my repository here:~~
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
