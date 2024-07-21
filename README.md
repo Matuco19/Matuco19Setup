@@ -26,7 +26,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 >[!Warning]
 >Under Construction!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,py,yml,vscode,github)](https://github.com/Matuco19)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,py,vscode,github)](https://github.com/Matuco19)
 
 <h2>My Github Stats</h2>
 
