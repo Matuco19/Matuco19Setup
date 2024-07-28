@@ -42,7 +42,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 <h2>Working On</h2>
 
-- My AI
+- My Code Editor
 - My Browser
 - and others!
 
@@ -63,9 +63,7 @@ You can follow these links:
 - [ X ](https://twitter.com/Matuco19_DEV)
 
 
-~~See my repository here:~~
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
+~~See my repository here:~~
 
