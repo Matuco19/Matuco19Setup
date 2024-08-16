@@ -1,7 +1,7 @@
 <h2> Matuco19 </h2>
 
 Hello! My name is Matuco19. I have knowledge in the fullstack area, like html, js, nodejs, python among others! 
-Visit my website for more information ~~[here]()~~
+Visit my website for more information [here](https://matuvo19.com)
 
 <h2>About Me</h2>
 
@@ -50,10 +50,10 @@ You can find all on my ~~[repository]()~~.
 <h2>How To Find Me</h2>
 You can follow these links:
 
-- [Discord](https://discordapp.com/users/609728126767071273)
+- [Discord](https://discordapp.com/users/877284350713004083)
 - ~~[Discord Server]()~~
 - ~~[Youtube]()~~
-- ~~[Website]()~~
+- [Website](https://matuco19.com)
 - [ X ](https://twitter.com/Matuco19_DEV)
 
 
