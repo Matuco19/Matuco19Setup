@@ -5,7 +5,7 @@ Visit my website for more information [here](https://matuco19.com)
 
 <h2>About Me</h2>
 
-I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. For now my website is not available as it is still under development, a great website with great projects! 
+I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. 
 
 <h2>My General Developer Roadmap:</h2>
 
