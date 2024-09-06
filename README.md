@@ -53,7 +53,7 @@ You can follow these links:
 
 - [Discord](https://discordapp.com/users/877284350713004083)
 - ~~[Discord Server]()~~
-- ~~[Youtube]()~~
+- [Youtube](https://www.youtube.com/channel/UCi2GHTV155hduAwX1hRE2Kw)
 - [Website](https://matuco19.com)
 - [ X ](https://twitter.com/Matuco19_DEV)
 
