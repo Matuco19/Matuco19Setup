@@ -56,6 +56,7 @@ You can follow these links:
 - [Youtube](https://www.youtube.com/channel/UCi2GHTV155hduAwX1hRE2Kw)
 - [Website](https://matuco19.com)
 - [ X ](https://twitter.com/Matuco19_DEV)
+- [Gravatar](https://gravatar.com/matuco19)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
