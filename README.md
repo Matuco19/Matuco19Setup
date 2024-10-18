@@ -60,6 +60,3 @@ You can follow these links:
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-~~See my repository here:~~
-
