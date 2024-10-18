@@ -57,6 +57,9 @@ You can follow these links:
 - [Website](https://matuco19.com)
 - [ X ](https://twitter.com/Matuco19_DEV)
 - [Gravatar](https://gravatar.com/matuco19)
+- [Buy Me A Coffee](https://buymeacoffee.com/matuco19dev)
+- [Patreon](https://www.patreon.com/c/Matuco19)
+- [Reddit](https://www.reddit.com/user/Matuco19_DEV/)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
