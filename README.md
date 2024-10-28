@@ -46,7 +46,6 @@ I've always liked programming in the backend area but I have knowledge in fronte
 [![YT-VAD](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=yt-vad\&theme=transparent)](https://github.com/Matuco19/yt-vad)
 
 
-You can find all on my ~~[repository]()~~.
 
 <h2>How To Find Me</h2>
 You can follow these links:
@@ -60,6 +59,7 @@ You can follow these links:
 - [Buy Me A Coffee](https://buymeacoffee.com/matuco19dev)
 - [Patreon](https://www.patreon.com/c/Matuco19)
 - [Reddit](https://www.reddit.com/user/Matuco19_DEV/)
+- [Anilist](https://anilist.co/user/Matuco19/)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
