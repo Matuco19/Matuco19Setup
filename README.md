@@ -60,6 +60,9 @@ You can follow these links:
 - [Patreon](https://www.patreon.com/c/Matuco19)
 - [Reddit](https://www.reddit.com/user/Matuco19_DEV/)
 - [Anilist](https://anilist.co/user/Matuco19/)
+- [How Long to Beat](https://howlongtobeat.com/user/Matuco19)
+
+
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
