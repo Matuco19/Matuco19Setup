@@ -59,6 +59,7 @@ You can follow these links:
 - [Buy Me A Coffee](https://buymeacoffee.com/matuco19dev)
 - [Patreon](https://www.patreon.com/c/Matuco19)
 - [Reddit](https://www.reddit.com/user/Matuco19_DEV/)
+- [last.fm](https://www.last.fm/user/Matuco19)
 - [Anilist](https://anilist.co/user/Matuco19/)
 - [How Long to Beat](https://howlongtobeat.com/user/Matuco19)
 
