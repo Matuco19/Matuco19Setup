@@ -51,7 +51,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 You can follow these links:
 
 - [Discord](https://discordapp.com/users/877284350713004083)
-- ~~[Discord Server]()~~
+- [Discord Server](https://discord.gg/hp7yCxHJBw)
 - [Youtube](https://www.youtube.com/channel/UCi2GHTV155hduAwX1hRE2Kw)
 - [Website](https://matuco19.com)
 - [ X ](https://twitter.com/Matuco19_DEV)
