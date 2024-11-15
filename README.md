@@ -24,6 +24,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [ ] Learn Rust ()
 - [ ] Learn brainf*ck (never)
 
+#### See all my skills [here](https://matuco19.com)
 
 ### My Github Stats
 
