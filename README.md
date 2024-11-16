@@ -44,30 +44,14 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - My Code Editor
 - My Browser
 - and others!
-
+- 
+<!--
 ### My Public Projects
 
-[![YT-VAD](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=yt-vad\&theme=transparent)](https://github.com/Matuco19/yt-vad)
-
-
+[![YT-VAD](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=yt-vad\&theme=transparent)](https://github.com/Matuco19/yt-vad) -->
 
 ### How To Find Me
-You can follow these links:
-
-- [Discord](https://discordapp.com/users/877284350713004083)
-- [Discord Server](https://discord.gg/hp7yCxHJBw)
-- [Youtube](https://www.youtube.com/channel/UCi2GHTV155hduAwX1hRE2Kw)
-- [Website](https://matuco19.com)
-- [ X ](https://twitter.com/Matuco19_DEV)
-- [Gravatar](https://gravatar.com/matuco19)
-- [Buy Me A Coffee](https://buymeacoffee.com/matuco19dev)
-- [Patreon](https://www.patreon.com/c/Matuco19)
-- [Reddit](https://www.reddit.com/user/Matuco19_DEV/)
-- [last.fm](https://www.last.fm/user/Matuco19)
-- [Anilist](https://anilist.co/user/Matuco19/)
-- [How Long to Beat](https://howlongtobeat.com/user/Matuco19)
-
-
+You can follow this [link to find all my accounts](https://matuco19.com/links)  
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
