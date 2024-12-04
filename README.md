@@ -3,8 +3,9 @@
 >[!WARNING]
 >Profile under maintenance, come back later
 
+<center>**[Website](https://matuco19.com) | [How to find me](https://matuco19.com/links)**</center>
+
 Hello! My name is Matuco19. I have knowledge in the fullstack area, like html, js, nodejs, python among others! 
-Visit my website for more information [here](https://matuco19.com)
 
 ### About Me
 
@@ -44,7 +45,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - My Code Editor
 - My Browser
 - and others!
-- 
+
 <!--
 ### My Public Projects
 
