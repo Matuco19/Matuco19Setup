@@ -3,7 +3,7 @@
 >[!WARNING]
 >Profile under maintenance, come back later
 
-<center>** [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) **</center>
+<center> ** [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) ** </center>
 
 Hello! My name is Matuco19. I have knowledge in the fullstack area, like html, js, nodejs, python among others! 
 
