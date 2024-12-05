@@ -5,7 +5,7 @@
 
 #### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [Matuco19 Studio](https://github.com/Matuco19-Studio)
 
-Hello! My name is Matuco19. I have knowledge in the fullstack area, like html, js, nodejs, python among others! 
+Hey! I am Matuco19 and i have knowledge in the fullstack area, like html, js, nodejs, python among others! 
 
 ### About Me
 
