@@ -11,7 +11,7 @@ Hello! My name is Matuco19. I have knowledge in the fullstack area, like html, j
 
 I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. 
 
-### My General Developer Roadmap:
+### General Developer Roadmap:
 
 - [x] Learn Scratch (03. Feb. 2018)
 - [x] Learn lua (13. Jan. 2020)
@@ -25,7 +25,6 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [ ] Learn Rust ()
 - [ ] Learn brainf*ck (never)
 
-#### See all my skills [here](https://matuco19.com)
 
 ### My Github Stats
 
@@ -44,6 +43,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 - My Code Editor
 - My Browser
+- Open-Source Projects
 - and others!
 
 <!--
