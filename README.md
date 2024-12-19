@@ -1,17 +1,22 @@
-### Matuco19 
+### Hi there 👋, I'm Matuco19!
 
->[!WARNING]
->Profile under maintenance, come back later
+
+
 
 #### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [Matuco19 Studio](https://github.com/Matuco19-Studio)
 
-Hey! I am Matuco19 and i have knowledge in the fullstack area, like html, js, nodejs, python among others! 
 
-### About Me
-
+Hey! I am a passionate developer with a keen interest in technology and coding. I love to explore new technologies and continuously improve my skills. I have knowledge in the fullstack area, like html, js, nodejs, python among others! 
 I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. 
 
-### General Developer Roadmap:
+### 💣 About Me
+
+- 🌱 I’m ready to learn **new technologies**
+- 💡 I’m currently developing **Commify**, **SlimenyAI** & **Project Solum**
+- 📫 How to reach me: **[contact me](https://matuco19.com/links)**
+
+
+### 🪄 General Developer Roadmap:
 
 - [x] Learn Scratch (03. Feb. 2018)
 - [x] Learn lua (13. Jan. 2020)
@@ -26,7 +31,7 @@ I've always liked programming in the backend area but I have knowledge in fronte
 - [ ] Learn brainf*ck (never)
 
 
-### My Github Stats
+### ℹ️ My Github Stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&count_private=true)](https://github.com/Matuco19)
 
@@ -39,20 +44,12 @@ I've always liked programming in the backend area but I have knowledge in fronte
 
 ![](https://github-contributor-stats.vercel.app/api?username=Matuco19&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-### Working On
 
-- My Code Editor
-- My Browser
-- Open-Source Projects
-- and others!
+### 💫 Actual Open-Source Project
 
-<!--
-### My Public Projects
+[![Commify](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=Commify\&theme=transparent)](https://github.com/Matuco19/Commify) 
 
-[![YT-VAD](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=yt-vad\&theme=transparent)](https://github.com/Matuco19/yt-vad) -->
-
-### How To Find Me
-You can follow this [link to find all my accounts](https://matuco19.com/links)  
+### 🪪 Random Quote
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
