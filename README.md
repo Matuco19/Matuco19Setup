@@ -6,8 +6,7 @@
 #### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [Matuco19 Studio](https://github.com/Matuco19-Studio)
 
 
-Hey! I am a passionate developer with a keen interest in technology and coding. I love to explore new technologies and continuously improve my skills. I have knowledge in the fullstack area, like html, js, nodejs, python among others! 
-I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. 
+Hey! I am a passionate developer with a keen interest in technology and coding. I love to explore new technologies and continuously improve my skills. I've always liked programming in the backend area but I have knowledge in frontend, I' always liked playing different games, especially sandbox and survival, I always try to learn more about other programming languages and frameworks. 
 
 ### 💣 About Me
 
