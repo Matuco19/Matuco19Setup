@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Matuco19!
 
-
-
-
 #### [Website](https://matuco19.com) | [How to find me](https://matuco19.com/links) | [Matuco19 Studio](https://github.com/Matuco19-Studio)
 
 
@@ -11,7 +8,7 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 ### 💣 About Me
 
 - 🌱 I’m ready to learn **new technologies**
-- 💡 I’m currently developing **Commify**, **SlimenyAI** & **Project Solum**
+- 💡 I’m currently developing **Commify** & **SlimenyAI**
 - 📫 How to reach me: **[contact me](https://matuco19.com/links)**
 
 
