@@ -48,9 +48,9 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 ### 💫 Actual Open-Source Project
 
 [![Commify](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=Commify\&theme=transparent)](https://github.com/Matuco19/Commify) 
-
+<!--
 [![rust-calculator](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=rust-calculator\&theme=transparent)](https://github.com/Matuco19/rust-calculator) 
-
+-->
 ### 🪪 Random Quote
 
 
