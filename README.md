@@ -26,8 +26,8 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 - [ ] Learn Rust ()
 - [ ] Learn brainf*ck (never)
 
-
-### ℹ️ My Github Stats
+<details> 
+<summary><h3>ℹ️Github Stats</h3></summary>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&count_private=true)](https://github.com/Matuco19)
 
@@ -39,11 +39,17 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 [![wakatime](https://wakatime.com/badge/user/b9e360ea-9fbd-4493-b337-e47fc9736978.svg)](https://wakatime.com/@b9e360ea-9fbd-4493-b337-e47fc9736978)
 
 ![](https://github-contributor-stats.vercel.app/api?username=Matuco19&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+		
+</details>
+
+
 
 
 ### 💫 Actual Open-Source Project
 
 [![Commify](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=Commify\&theme=transparent)](https://github.com/Matuco19/Commify) 
+
+[![rust-calculator](https://github-readme-stats.vercel.app/api/pin?username=Matuco19\&repo=rust-calculator\&theme=transparent)](https://github.com/Matuco19/rust-calculator) 
 
 ### 🪪 Random Quote
 
