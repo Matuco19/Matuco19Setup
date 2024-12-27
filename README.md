@@ -26,8 +26,7 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 - [ ] Learn Rust ()
 - [ ] Learn brainf*ck (never)
 
-<details> 
-<summary><h3>ℹ️Github Stats</h3></summary>
+<details><summary><h3>ℹ️Github Stats</h3></summary>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=Matuco19&theme=transparent&show_icons=true&hide_border=true&count_private=true)](https://github.com/Matuco19)
 
