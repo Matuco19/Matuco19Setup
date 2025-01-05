@@ -22,8 +22,8 @@ Hey! I am a passionate developer with a keen interest in technology and coding. 
 - [x] Learn python (14. Feb. 2023)
 - [x] Learn Unreal Engine (10. Dec. 2023)
 - [x] Learn React (28. Jun. 2024)
+- [x] Learn Rust (04. Jan. 2025)
 - [ ] Learn C++ ()
-- [ ] Learn Rust ()
 - [ ] Learn brainf*ck (never)
 
 <details><summary><h3>ℹ️Github Stats</h3></summary>
